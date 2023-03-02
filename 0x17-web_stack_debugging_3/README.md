@@ -2,7 +2,7 @@
 
 <h3>Concepts</h3>
 
-For this project, students are expected to look at these concepts:
+For this project, students are expected to look at these concepts:-
 
 <ul>
 <li><a href="https://alx-intranet.hbtn.io/concepts/17">Web Server</a></li>
